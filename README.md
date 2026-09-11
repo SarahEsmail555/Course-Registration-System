@@ -68,4 +68,9 @@ This project does not use a database.
 The username and password are temporarily stored and compared within the Java program.
 
 
+## 🎯 Project Goal
+
+The main goal of this project is to provide a simple graphical course registration system that allows students to log in, browse different course levels, select courses, and manage their selected courses easily.
+
+
 cal course registration system that allows students to log in, browse different course levels, select courses, and manage their selected courses easily.
